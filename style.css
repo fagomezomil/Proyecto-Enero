@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.inicio {
+    background-image: url(./img/bg1.jpg);
+    padding-top: 14rem;
+    padding-bottom: 12rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.caja-inicio {
+    max-width: 600px;
+    padding-left: 4rem;
+}
+
+h2 {
+    font-family: 'Martel', serif;
+    font-weight: 700;
+    font-size: 4rem;
+    color: rgb(255, 248, 241);
+}
+
+.texto {
+    color: aliceblue;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.cositos {
+    background-color:  rgb(255, 248, 241);
+    padding-bottom: 4rem;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+h3 {
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+    color: rgb(126, 126, 126);
+}
+
+.t-servicios {
+    color: rgb(82, 82, 82);
+    font-family: 'Martel', serif;
+    font-size: 1.2rem;
+    font-weight: 300;
+    padding-bottom: 2rem;
+}
+
+
+.foco {
+    font-size: 91px;
+    color: rgb(255, 248, 241);
+    padding-top: 3rem;
+}
+
+.item {
+    min-width: 230px;
+    text-align: center;
+}
+
+.container-explicacion {
+    width: 230px;
+    background-color: rgb(63, 48, 9);
+}
+
+.t-explicacion {
+    padding: 20px 20px;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 500;
+    font-size: 0.9rem;
+    color: rgb(255, 248, 241);
+    text-align: left;
+}
+
+.t-cositos {
+    padding: 20px 0px;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: rgb(255, 248, 241);
+    margin-bottom: 0;
+}
+
+.contenedor-icono {
+    width: 230px;
+    height: 200px;
+    marker-end: 20px;
+    background-color: rgb(26, 58, 7);
+    text-align: center;
+}
+
+.container-texto-cosito {
+    width: 230px;
+    background-color: rgb(212, 181, 0);
+}
+
+.historia {
+    background-color: rgb(14, 49, 14);
+}
+
+.titulo-img-innovacion {
+    background-color: rgb(37, 54, 7);
+    padding: 14px 0px;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: rgb(255, 248, 241);
+    margin-bottom: 0;
+}
+
+.nav-bar-logo {
+    width: 115px;
+    padding-bottom: 8px;
+    padding-left: 20px;
+}
+
+.modal-dialog {
+    min-width: 300px;
+    max-width: 1200px;
+    padding: 1.5rem;
+}
+
+.modal-header {
+    background-color: rgb(14, 49, 14);
+}
+
+.modal-body {
+    padding: 0px;
+}
+
+h5 {
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 700;
+    font-size: 1.4rem;
+    color: rgb(255, 248, 241);
+}
+
+.texto-modal { 
+    padding: 20px 20px;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 500;
+    font-size: 1.2rem;
+    color: rgb(61, 61, 61);
+    text-align: left;
+}
+
+.container-empresa {
+    background-color: dimgrey;
+}
+
+.estilo-historia {
+    background-color:  rgb(87, 87, 87);
+    padding-bottom: 4rem;
+    padding-left: 0px;
+    padding-right: 0px;
+}
