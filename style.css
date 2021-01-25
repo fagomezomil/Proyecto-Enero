@@ -62,12 +62,13 @@ h3 {
 }
 
 .item {
-    min-width: 230px;
+    /* min-width: 230px; */
+    max-width: 400px;
     text-align: center;
 }
 
 .container-explicacion {
-    width: 230px;
+    /* width: 230px; */
     background-color: rgb(63, 48, 9);
 }
 
@@ -90,7 +91,6 @@ h3 {
 }
 
 .contenedor-icono {
-    width: 230px;
     height: 200px;
     marker-end: 20px;
     background-color: rgb(26, 58, 7);
@@ -98,7 +98,7 @@ h3 {
 }
 
 .container-texto-cosito {
-    width: 230px;
+    /* width: 230px; */
     background-color: rgb(212, 181, 0);
 }
 
@@ -157,8 +157,25 @@ h5 {
 }
 
 .estilo-historia {
-    background-color:  rgb(87, 87, 87);
+    background-color:  rgb(160, 159, 153);
     padding-bottom: 4rem;
     padding-left: 0px;
     padding-right: 0px;
+}
+
+.titulo-historia {
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 600;
+    font-size: 3rem;
+    color: rgb(255, 248, 241);
+}
+
+.t-historia {
+    color: rgb(255, 255, 255);
+    font-family: 'Martel', serif;
+    font-size: 1.2rem;
+    font-weight: 300;
+    padding-bottom: 2rem;
 }
